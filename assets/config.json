@@ -1,0 +1,11 @@
+{
+  "api": {
+    "auth": "https://intranet.sinprodf.org.br/mobile/usuarios/",
+    "mobile": "https://intranet.sinprodf.org.br/mobile/",
+    "cadastro": "https://intranet.sinprodf.org.br/mobile/cadastros/",
+    "wordpress": "https://www.sinprodf.org.br/wp-json/wp/v2/",
+    "mongo": "https://serverless.sinprodf.org.br/mongodb/",
+    "api": "https://api.sinprodf.org.br/v1/",
+    "masterclin": "https://serverless.sinprodf.org.br/outside/masterclin/"
+  }
+}
